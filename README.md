@@ -2,7 +2,8 @@
 Portfolio de projetos durante a aprendizagem de sistemas de gerenciamento de banco de dados
 
 1o. Projeto -- Refinar um modelo ER de um E-Commerce.
-Foi desenvolvido um modelo no MySQL Workbench do modelo desenvolvido durante o curso.
+
+Foi desenvolvido diagrama no MySQL Workbench do modelo desenvolvido durante o curso.
 O objetivo foi refinar o modelo ao acrescentar entidades ao modelo. 
 "Para modelar um banco de dados para uma plataforma de E-Commerce, foram estabelecidas
 algumas entidades e relacionamentos básicos.
